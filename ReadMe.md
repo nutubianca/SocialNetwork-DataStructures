@@ -1,7 +1,10 @@
-Pentru realizarea proiectului am avut de implementat TAD-ul 1 si TAD-ul 4, repsectiv o lista cu
-reprezentare pe array si un dictionar su reprezentare inlantuita.
+SocialNetwork este un proiect prin care s-a realizat o aplicatie de socializare in C++ cu afisare
+in consola, folosind tipuri de date prin implementare proprie.
+
+Pentru realizarea proiectului am avut de implementat o lista cu
+reprezentare pe array si un dictionar cu reprezentare inlantuita.
 Primul TAD l-am folosit drept container pentru obiectele de tip Friendship si Message, initializand cate o
-lista in clasa RepoInMemory pentru fiecare(friendships si conversations). De asemnea am mai utilizat acest TAD
+lista in clasa RepoInMemory pentru fiecare(friendships si conversations). De asemenea am mai utilizat acest TAD
 in cateva functionalitati, returnand datele printr-un container de acest tip.
 Al doilea TAD l-am folosit drept container pentru obiectele de tip User(in clasa RepoInMemory). De asemenea,
 l-am mai utilizat in functionalitatea "Afisare conversatii utilizatori" pentru ca a fost cea mai eficienta metoda,
