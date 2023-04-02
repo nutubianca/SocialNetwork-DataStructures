@@ -1,3 +1,0 @@
-C:/UBB/Mate-info an I/Sem II/Structuri de date/proiectSDA/project/cmake-build-debug/CMakeFiles/project.dir
-C:/UBB/Mate-info an I/Sem II/Structuri de date/proiectSDA/project/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/UBB/Mate-info an I/Sem II/Structuri de date/proiectSDA/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
